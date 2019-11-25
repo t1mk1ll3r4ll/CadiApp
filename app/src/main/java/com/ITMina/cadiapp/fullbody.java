@@ -71,7 +71,6 @@ public class fullbody extends AppCompatActivity {
                     next.setVisibility(View.INVISIBLE);
 
                 }
-
             }
         });
 
